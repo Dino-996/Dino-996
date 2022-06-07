@@ -1,7 +1,7 @@
 # 👋 Ciao  
 - Io sono @Dino-996
 - 👀 Mi piace la programmazione in qualsiasi forma e linguaggio
-- 🌱 Attualmente sto imparando **JavaScript**
+- 🌱 Attualmente sto imparando **Javascript**
 - 📫 Puoi scrivermi qui: davide9610@hotmail.com
 
 <!---
